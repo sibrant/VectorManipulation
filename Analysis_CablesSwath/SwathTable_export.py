@@ -5,7 +5,6 @@ Test for SwathGraph class
 
 Created on Tue Nov 14 2017
 Last Modified on Tue Nov 14 2017
-@author: J Vicente Perez
 """
 import os
 
